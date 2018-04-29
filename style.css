@@ -1,0 +1,21 @@
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  width: 2000px;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+  
+}
+
+#carousel {
+  border: 3px solid black;
+  margin: 0 auto;
+  width: 400px;
+  height: 300px;
+  overflow: hidden;
+}
